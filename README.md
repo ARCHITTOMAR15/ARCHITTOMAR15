@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Archit Tomar 👋
 
-<!--
-**ARCHITTOMAR15/ARCHITTOMAR15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently transitioning into AI/ML and building hands-on projects in Machine Learning and Deep Learning.
 
-Here are some ideas to get you started:
+My current focus areas include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Artificial Neural Networks (ANN)
+* Convolutional Neural Networks (CNN)
+* Predictive Analytics
+* Streamlit Applications
+* Data Visualization with Power BI
+
+I enjoy learning by building practical projects and continuously improving my skills in AI and data-driven technologies.
+
+
