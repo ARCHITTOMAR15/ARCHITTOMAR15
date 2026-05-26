@@ -1,7 +1,9 @@
 # Hi, I'm Archit Tomar 
 
 I'm currently transitioning into AI/ML and building hands-on projects in Machine Learning and Deep Learning.
+
 Tech Stack
+
 Python • TensorFlow • Keras • Scikit-learn • Pandas • NumPy • SQL • Streamlit • Power BI • Git & GitHub
 
 My current focus areas include:
