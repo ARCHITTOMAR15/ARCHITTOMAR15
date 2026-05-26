@@ -2,11 +2,11 @@
 
 I'm currently transitioning into AI/ML and building hands-on projects in Machine Learning and Deep Learning.
 
-Tech Stack
+## Tech Stack
 
 Python • TensorFlow • Keras • Scikit-learn • Pandas • NumPy • SQL • Streamlit • Power BI • Git & GitHub
 
-My current focus areas include:
+## Current Focus
 
 * Artificial Neural Networks (ANN)
 * Convolutional Neural Networks (CNN)
@@ -18,5 +18,5 @@ My current focus areas include:
 
 I enjoy learning by building practical projects and continuously improving my skills in AI and data-driven technologies.
 
-Connect With Me
+## Connect With Me
 LinkedIn: www.linkedin.com/in/archit-tomar-36895b29b
