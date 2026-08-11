@@ -1,22 +1,31 @@
-# Hi, I'm Archit Tomar 
+# Hi, I'm Archit Tomar 👋
 
-I'm currently transitioning into AI/ML and building hands-on projects in Machine Learning and Deep Learning.
+I'm an **AI/ML Engineer** focused on building practical solutions across
+**Machine Learning, Deep Learning, NLP, Generative AI, RAG, and Agentic AI**.
 
 ## Tech Stack
 
-Python • TensorFlow • Keras • Scikit-learn • Pandas • NumPy • SQL • Streamlit • Power BI • Git & GitHub
+**AI/ML:** Python • Scikit-learn • TensorFlow • Keras • XGBoost
+
+**NLP & GenAI:** NLP • Transformers • Hugging Face • LLMs • RAG
+
+**AI Frameworks:** LangChain • LlamaIndex • LangGraph
+
+**Data & Deployment:** Pandas • NumPy • SQL • Streamlit • Git & GitHub
 
 ## Current Focus
 
-* Artificial Neural Networks (ANN)
-* Convolutional Neural Networks (CNN)
-* Supervised Machine Learning
-* Regression & Classification Models
-* Predictive Analytics
-* Streamlit Applications
-* Data Visualization with Power BI
+- Machine Learning & Deep Learning
+- NLP & Transformer-based applications
+- Generative AI & LLM applications
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI & Multi-Agent Systems
+- LlamaIndex & LangGraph
+- Building and deploying practical AI applications
 
-I enjoy learning by building practical projects and continuously improving my skills in AI and data-driven technologies.
+I enjoy learning by building practical projects and continuously improving
+my skills in AI/ML and modern AI systems.
 
 ## Connect With Me
-LinkedIn: www.linkedin.com/in/archit-tomar-36895b29b
+
+**LinkedIn:** [Archit Tomar](https://www.linkedin.com/in/archit-tomar-36895b29b/)
