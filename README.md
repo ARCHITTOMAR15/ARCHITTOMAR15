@@ -1,4 +1,4 @@
-# Hi, I'm Archit Tomar 👋
+# Hi, I'm Archit Tomar 
 
 I'm an **AI/ML Engineer** focused on building practical solutions across
 **Machine Learning, Deep Learning, NLP, Generative AI, RAG, and Agentic AI**.
@@ -29,3 +29,4 @@ my skills in AI/ML and modern AI systems.
 ## Connect With Me
 
 **LinkedIn:** [Archit Tomar](https://www.linkedin.com/in/archit-tomar-36895b29b/)
+**Streamlit Apps:** [View My AI/ML Applications](YOUR_STREAMLIT_PROFILE_LINK)
