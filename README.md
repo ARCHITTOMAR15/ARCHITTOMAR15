@@ -29,4 +29,4 @@ my skills in AI/ML and modern AI systems.
 
 **LinkedIn:** [Archit Tomar](https://www.linkedin.com/in/archit-tomar-36895b29b/)
 
-**Streamlit Apps:** Add individual live app links here
+**Streamlit Apps:** [View My AI/ML Applications](https://share.streamlit.io/user/archittomar15)  
