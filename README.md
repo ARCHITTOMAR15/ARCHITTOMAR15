@@ -1,7 +1,7 @@
 # Hi, I'm Archit Tomar 
 
-I'm an **AI/ML Engineer** focused on building practical solutions across
-**Machine Learning, Deep Learning, NLP, Generative AI, RAG, and Agentic AI**.
+Building practical projects across **Machine Learning, Deep Learning, NLP, Generative AI, RAG, and Agentic AI**.
+
 
 ## Tech Stack
 
