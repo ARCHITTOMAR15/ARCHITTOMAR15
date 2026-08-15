@@ -30,6 +30,7 @@ Building practical projects across **Machine Learning, Deep Learning, NLP, Gener
 - AI-powered automation and screening tools
 - Machine Learning & Deep Learning solutions
 - Deployed AI applications with Streamlit
+  
 I enjoy learning by building practical projects and continuously improving
 my skills in AI/ML and modern AI systems.
 
