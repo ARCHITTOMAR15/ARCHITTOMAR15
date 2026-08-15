@@ -15,14 +15,14 @@ Building practical projects across **Machine Learning, Deep Learning, NLP, Gener
 
 ## Current Focus
 
-- Machine Learning & Deep Learning
-- NLP & Transformer-based applications
 - Generative AI & LLM applications
 - Retrieval-Augmented Generation (RAG)
+- NLP & Transformer-based applications
 - Agentic AI & Multi-Agent Systems
-- LlamaIndex & LangGraph
+- LangChain, LangGraph & LlamaIndex
+- LoRA/PEFT & efficient model adaptation
 - Building and deploying practical AI applications
-- 
+  
 ##  What I Build
 
 - RAG-based GenAI applications
