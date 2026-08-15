@@ -1,7 +1,7 @@
 # Hi, I'm Archit Tomar 
+### AI/ML | GenAI, RAG, NLP, Transformers & Deep Learning
 
 Building practical projects across **Machine Learning, Deep Learning, NLP, Generative AI, RAG, and Agentic AI**.
-
 
 ## Tech Stack
 
