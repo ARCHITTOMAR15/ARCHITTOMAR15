@@ -22,9 +22,17 @@ Building practical projects across **Machine Learning, Deep Learning, NLP, Gener
 - Agentic AI & Multi-Agent Systems
 - LlamaIndex & LangGraph
 - Building and deploying practical AI applications
+- 
+##  What I Build
 
+- RAG-based GenAI applications
+- NLP & Transformer-based systems
+- AI-powered automation and screening tools
+- Machine Learning & Deep Learning solutions
+- Deployed AI applications with Streamlit
 I enjoy learning by building practical projects and continuously improving
 my skills in AI/ML and modern AI systems.
+
 ## Connect With Me
 
 **LinkedIn:** [Archit Tomar](https://www.linkedin.com/in/archit-tomar-36895b29b/)
